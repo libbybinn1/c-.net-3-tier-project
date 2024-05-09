@@ -1,0 +1,13 @@
+C:\Users\תהילה\Downloads\C# Project\bin\Simulator.deps.json
+C:\Users\תהילה\Downloads\C# Project\bin\Simulator.dll
+C:\Users\תהילה\Downloads\C# Project\bin\Simulator.pdb
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\Simulator.AssemblyInfoInputs.cache
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\Simulator.AssemblyInfo.cs
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\Simulator.csproj.Up2Date
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\Simulator.dll
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\refint\Simulator.dll
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\Simulator.pdb
+C:\Users\תהילה\Downloads\C# Project\Simulator\obj\Debug\ref\Simulator.dll
